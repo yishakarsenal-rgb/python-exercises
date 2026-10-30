@@ -12,12 +12,11 @@ A curated collection of Python scripts, fundamental exercises, and problem-solvi
 
 | File Name | Topic / Concept | Description |
 | :--- | :--- | :--- |
-| `h.py` | Basics & Output | Introductory "Hello, World!" script and environment verification. |
-| `even_odd.py` | Conditionals & Modulo | Checks whether a user-inputted integer is even, odd, or zero. |
-
-*(More exercises are added regularly as the collection grows!)*
-
----
+| `hello world.py` | Basics & Output | Introductory "Hello, World!" script and environment verification. |
+| `simple calculator.py` | Arithmetic Operations | Performs basic mathematical calculations (addition, subtraction, multiplication, division). |
+| `simple calculator with input.py` | User Input & Arithmetic | Interactive calculator that takes numbers and operators directly from the user. |
+| `even odd.py` | Conditionals & Modulo | Checks whether a predefined number is even or odd. |
+| `even odd with input.py` | User Input & Conditionals | Takes an integer from the user and determines if it is even or odd. |
 
 ## 🚀 Getting Started
 
