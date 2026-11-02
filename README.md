@@ -52,6 +52,6 @@ python filename.py
 
 ---
 
-## 👤 Author
+## Author
 **Yishak Mekuannent**
 * GitHub: [@yishakarsenal-rgb](https://github.com/yishakarsenal-rgb)
