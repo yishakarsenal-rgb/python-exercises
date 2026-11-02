@@ -1,4 +1,4 @@
-# 🐍 Python Exercises & Practice
+#  Python Exercises & Practice
 
 [![Python Version](https://img.shields.io/badge/Python-3.11.0-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![IDE](https://img.shields.io/badge/IDE-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
