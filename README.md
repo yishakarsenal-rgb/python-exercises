@@ -18,7 +18,7 @@ A curated collection of Python scripts, fundamental exercises, and problem-solvi
 | `even odd.py` | Conditionals & Modulo | Checks whether a predefined number is even or odd. |
 | `even odd with input.py` | User Input & Conditionals | Takes an integer from the user and determines if it is even or odd. |
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 Make sure you have **Python 3.x** installed on your system. You can verify your installation by running:
