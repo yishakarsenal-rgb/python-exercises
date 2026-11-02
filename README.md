@@ -45,7 +45,7 @@ python filename.py
 
 ---
 
-## 🛠️ Built With
+##  Built With
 * **Language:** Python 3.11.0
 * **Editor:** PyCharm Community Edition
 * **Version Control:** Git & GitHub
