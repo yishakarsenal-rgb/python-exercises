@@ -8,7 +8,7 @@ A curated collection of Python scripts, fundamental exercises, and problem-solvi
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | File Name | Topic / Concept | Description |
 | :--- | :--- | :--- |
