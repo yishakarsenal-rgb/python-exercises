@@ -35,8 +35,6 @@ git clone [https://github.com/yishakarsenal-rgb/python-exercises.git](https://gi
 cd python-exercises
 ```
 
-### Running a Script
-Execute any Python file in the directory using the terminal or Command Prompt:
 
 
 
