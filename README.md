@@ -41,7 +41,7 @@ Execute any Python file in the directory using the terminal or Command Prompt:
 ```bash
 python filename.py
 ```
-*(Replace `filename.py` with the actual name of the script, e.g., `python h.py`)*
+
 
 ---
 
