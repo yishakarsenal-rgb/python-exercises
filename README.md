@@ -38,9 +38,7 @@ cd python-exercises
 ### Running a Script
 Execute any Python file in the directory using the terminal or Command Prompt:
 
-```bash
-python filename.py
-```
+
 
 
 ---
