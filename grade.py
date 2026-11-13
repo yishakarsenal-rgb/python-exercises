@@ -1,22 +1,22 @@
-score = float(input("Enter the score (0 - 100): "))
+score = float(input("enter score= "))
 
 if score < 0 or score > 100:
-    print("Invalid score! Please enter a number between 0 and 100.")
+    print("invalid score")
 elif score >= 90:
-    print("Grade: A+")
+    print("A+")
 elif score >= 85:
-    print("Grade: A")
+    print("A")
 elif score >= 80:
-    print("Grade: A-")
+    print("A-")
 elif score >= 75:
-    print("Grade: B+")
+    print("B+")
 elif score >= 70:
-    print("Grade: B")
+    print("B")
 elif score >= 65:
-    print("Grade: C+")
+    print("C+")
 elif score >= 60:
-    print("Grade: C")
+    print("C")
 elif score >= 50:
-    print("Grade: D")
+    print("D")
 else:
-    print("Grade: F")
+    print("F")
