@@ -13,10 +13,12 @@ elif score >= 75:
 elif score >= 70:
     print("B")
 elif score >= 65:
-    print("C+")
+    print("B-")
 elif score >= 60:
-    print("C")
+    print("C+")
 elif score >= 50:
+    print("C")
+elif score >= 40:
     print("D")
 else:
     print("F")
