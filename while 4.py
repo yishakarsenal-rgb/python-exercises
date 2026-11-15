@@ -1,5 +1,4 @@
 i = 1
-
 while i <= 4:
     spaces = 4 - i
     space_count = 0
