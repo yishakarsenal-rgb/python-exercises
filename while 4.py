@@ -1,0 +1,19 @@
+i = 1
+
+while i <= 4:
+    # 1. Print leading spaces to center-align the triangle
+    spaces = 4 - i
+    space_count = 0
+    while space_count < spaces:
+        print(" ", end="")
+        space_count += 1
+
+    # 2. Print the characters (using 'o' as shown on the board)
+    j = 1
+    while j <= (2 * i - 1):
+        print("o", end="")
+        j += 1
+
+    # 3. Move to the next row
+    print()
+    i += 1
