@@ -10,7 +10,5 @@ while i <= 4:
     while j <= (2 * i - 1):
         print("o", end="")
         j += 1
-
-    # 3. Move to the next row
     print()
     i += 1
