@@ -6,8 +6,6 @@ while i <= 4:
     while space_count < spaces:
         print(" ", end="")
         space_count += 1
-
-    # 2. Print the characters (using 'o' as shown on the board)
     j = 1
     while j <= (2 * i - 1):
         print("o", end="")
