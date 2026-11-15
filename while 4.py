@@ -1,7 +1,6 @@
 i = 1
 
 while i <= 4:
-    # 1. Print leading spaces to center-align the triangle
     spaces = 4 - i
     space_count = 0
     while space_count < spaces:
