@@ -4,7 +4,7 @@ while i <= 4:
     y = 0
     while y < x:
         print(" ", end="")
-        space_count += 1
+        y += 1
     j = 1
     while j <= (2 * i - 1):
         print("o", end="")
