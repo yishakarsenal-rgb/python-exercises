@@ -7,7 +7,7 @@ while i <= 4:
         y += 1
     j = 1
     while j <= (2 * i - 1):
-        print("o", end="")
+        print("o", z="")
         j += 1
     print()
     i += 1
